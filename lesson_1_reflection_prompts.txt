@@ -13,3 +13,7 @@ Pro: I can choose to commit by a logical reason.
 How might using version control make you more confident to make changes that could break something?
 
  Git allows me to mistake everything and not worry.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  For testing git.

@@ -9,3 +9,7 @@ This way I eliminate bugs faster and I can create different versions of my softw
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
 Pro: I can choose to commit by a logical reason.
+
+How might using version control make you more confident to make changes that could break something?
+
+ Git allows me to mistake everything and not worry.
